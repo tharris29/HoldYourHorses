@@ -1,0 +1,6 @@
+C:\justeat\HoldYourHorses.net\HoldYourHorsesTest\bin\Debug\netstandard2.0\HoldYourHorsesTest.deps.json
+C:\justeat\HoldYourHorses.net\HoldYourHorsesTest\bin\Debug\netstandard2.0\HoldYourHorsesTest.dll
+C:\justeat\HoldYourHorses.net\HoldYourHorsesTest\obj\Debug\netstandard2.0\HoldYourHorsesTest.csprojResolveAssemblyReference.cache
+C:\justeat\HoldYourHorses.net\HoldYourHorsesTest\obj\Debug\netstandard2.0\HoldYourHorsesTest.csproj.CoreCompileInputs.cache
+C:\justeat\HoldYourHorses.net\HoldYourHorsesTest\obj\Debug\netstandard2.0\HoldYourHorsesTest.AssemblyInfoInputs.cache
+C:\justeat\HoldYourHorses.net\HoldYourHorsesTest\obj\Debug\netstandard2.0\HoldYourHorsesTest.AssemblyInfo.cs
